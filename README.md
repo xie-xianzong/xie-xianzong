@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xie-xianzong
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java, Spring(boot/batch)
+- 📫 How to reach me?  email: xie_xianzong@outlook.com
